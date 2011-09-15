@@ -4,7 +4,7 @@ Nå er det mer tekst.
 
 Ny linje.
 
-
-<script>
-	Start script! !Start
+Fjerner her
+<sc
+	Start script! !Start Jeg legger til her
 </script>
